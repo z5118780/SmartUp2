@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1004532827380",
+    "firebase_url": "https://smartup-58798.firebaseio.com",
+    "project_id": "smartup-58798",
+    "storage_bucket": "smartup-58798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004532827380:android:9c8afbdd051bc202",
+        "android_client_info": {
+          "package_name": "com.example.jennwong.smartup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004532827380-agvposb1nhrrnvvf602etbahe5i8mi0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jennwong.smartup",
+            "certificate_hash": "dc4be4727cb9f0713788efc5ebe4af90df8c9d4d"
+          }
+        },
+        {
+          "client_id": "1004532827380-khvrjlnd58pp0mdp0ubsf89dedo5e6di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhvJsRRYQ-k6_Jz_rFZUwbhsqofjaFCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004532827380-khvrjlnd58pp0mdp0ubsf89dedo5e6di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
